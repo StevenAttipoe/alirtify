@@ -8,7 +8,7 @@ Bookmarking - Users can bookmark their favorite articles, making it easy to revi
 
 ## Screenshots
 Screenshot 1
-![alt text](./assets/sample.png)
+![alt text](./assets/home.png)
 
 ![Home screen](./assets/icons/Screenshot 2023-04-18 at 11.21.01 AM.png)
 
