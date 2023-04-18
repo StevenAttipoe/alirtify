@@ -7,9 +7,9 @@ Search - Users can search for news articles by keyword, making it easy to find a
 Bookmarking - Users can bookmark their favorite articles, making it easy to revisit them at a later time.
 
 ## Screenshots
-![Home screen](./assets/Screenshot 2023-04-18 at 11.21.01 AM.png)
+![Home screen](./assets/icons/Screenshot 2023-04-18 at 11.21.01 AM.png)
 
-![News Article List](./assets/Screenshot 2023-04-18 at 11.21.17 AM.png)
+![News Article List](./assets/icons/Screenshot 2023-04-18 at 11.21.17 AM.png)
 
 Screenshot 1 Screenshot 2
 
